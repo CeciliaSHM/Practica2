@@ -5,7 +5,7 @@
 package com.mycompany.sumapares;
 /**
  *
- * @author WIND 11
+ * @author HernandezCecilia
  */
 
 import java.util.Scanner;
