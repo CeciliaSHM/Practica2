@@ -6,7 +6,7 @@ package com.mycompany.figurasgeometricas;
 
 /**
  *
- * @author WIND 11
+ * @author HernandezCecilia
  */
 import java.util.Scanner;
 
